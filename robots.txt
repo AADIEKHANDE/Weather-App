@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid=a1c3b109e2163cb3fba1dba53b3fb332
